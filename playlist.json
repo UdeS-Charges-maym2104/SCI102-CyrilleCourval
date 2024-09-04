@@ -1,12 +1,21 @@
 "_comment" : "entrez vos chansons preferees dans la liste ci-dessous. Suivez les premieres entrees comme exemple"
 {
 	"playlist": [
-		{ 
+        
+		{
 			"titre": "snoop dogg",
 			"artiste": "Muse",
 			"album": "Origin of Symetry",
 			"année": 2001,
 			"url": "https://www.youtube.com/watch?v=KScEW5a_KGY"
+
+		{
+			"titre": "Carolina Drama",
+			"artiste": "The Raconteurs",
+			"album": "Consolers of the Lonely",
+			"année": 2008,
+			"url": "https://www.youtube.com/watch?v=eYDn_4zSc3E"
+
 		},
 		{ 
 			"titre": "Milord",
